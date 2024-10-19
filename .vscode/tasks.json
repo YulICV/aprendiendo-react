@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "projects/00-hola-mundo",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"label": "npm: dev - projects/00-hola-mundo",
+			"detail": "vite"
+		}
+	]
+}
