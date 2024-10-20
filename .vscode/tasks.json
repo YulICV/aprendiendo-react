@@ -4,11 +4,19 @@
 		{
 			"type": "npm",
 			"script": "dev",
-			"path": "projects/00-hola-mundo",
+			"path": "projects/01-twitter-follow-card",
 			"problemMatcher": [
 				"$tsc"
 			],
-			"label": "npm: dev - projects/00-hola-mundo",
+			"label": "npm: dev - projects/01-twitter-follow-card",
+			"detail": "vite"
+		},
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "projects/02-tic-tac-toe",
+			"problemMatcher": [],
+			"label": "npm: dev - projects/02-tic-tac-toe",
 			"detail": "vite"
 		}
 	]
