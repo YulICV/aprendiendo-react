@@ -1,16 +1,15 @@
 import { useState } from 'react'
 
-export function TwitterFollowCard ({ userName, name}){
+export function TwitterFollowCard ({ userName, name, initialIsFollowing}){
   // const imageSrc = `https://unavatar.io/${userName}`
   // const addAt = (userName) => `@${userName}`
   //src= {imageSrc}
- 
-  const [isFollowing,setIsFollowing] = useState(false)
   
   // const state =  useState(false)
   // const isFollowing = state[0]
   // const setIsFollowing = state[1]
-
+  const [isFollowing,setIsFollowing] = useState(initialIsFollowing)
+  
 
   const text = isFollowing ? 'Siguiendo': 'Seguir'
   const buttonClassName = isFollowing
