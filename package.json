@@ -1,5 +1,5 @@
 {
-  "name": "aprendiendo-react",
+  "name": "prendiendo-react",
   "version": "1.0.0",
   "description": "Iniciando estudios de react, utilizando vite con JavaScript+SWC",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "YulianaCV",
   "license": "ISC"
 }
