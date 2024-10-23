@@ -1,5 +1,5 @@
 {
-  "name": "prendiendo-react",
+  "name": "aprendiendo-react",
   "version": "1.0.0",
   "description": "Iniciando estudios de react, utilizando vite con JavaScript+SWC",
   "main": "index.js",
@@ -8,5 +8,15 @@
   },
   "keywords": [],
   "author": "YulianaCV",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/YulICV/aprendiendo-react/issues"
+  },
+  "homepage": "https://github.com/YulICV/aprendiendo-react#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
 }
