@@ -1,2 +1,3 @@
 # aprendiendo-react
-Iniciando estudios de react, utilizando vite con JavaScript+SWC
+>[!Note]
+>Creacion concentrado de projecto con react, utilizando vite con JavaScript+SWC.
