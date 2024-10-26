@@ -5,6 +5,6 @@
 
 Este repositorio contiene los siguientes proyectos:
 
-- [01-twitter-follow-card](./Proyecto1)
-- [Proyecto 2](./Proyecto2)
-- [Proyecto 3](./Proyecto3)
+- [01-twitter-follow-card](./projects/01-twitter-follow-card)
+- [02-tic-tac-toe](./projects/02-tic-tac-toe)
+- [03-mouse-follower](./projects/03-mouse-follower)
